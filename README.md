@@ -1,3 +1,3 @@
 # NDN
 
-VHDL mosuli, testirani na Nexys A7
+VHDL moduli, testirani na Nexys A7
